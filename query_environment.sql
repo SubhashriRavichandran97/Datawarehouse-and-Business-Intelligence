@@ -260,8 +260,7 @@ SELECT COUNT(*) AS TotalRecords FROM dwh_Land_Usage;
 SELECT COUNT(*) AS TotalRecords FROM dwh_Threatened_Species;
 SELECT COUNT(*) AS TotalRecords FROM dwh_Water_and_Sanitation;
 
--- KPIs---------------------------------------------------------------------------------------------------------
--- to be continued----------------------------------------------------------------------------------------------
+
 
   
 
