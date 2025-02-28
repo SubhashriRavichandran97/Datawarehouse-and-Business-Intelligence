@@ -6,10 +6,7 @@ Definition von Business Case, KPIs und Entwicklung eines Data Warehouses und BI-
 
 **ETL**
 
-<img width="455" alt="image" src="https://github.com/user-attachments/assets/34cdaa3d-ec3f-40ba-aaff-79bcab892ec8" />
-
-
-
+<img width="623" alt="image" src="https://github.com/user-attachments/assets/2398924e-039f-4bd3-8ff6-6e105b13d347" />
 
 
 
