@@ -12,6 +12,7 @@ Definition von Business Case, KPIs und Entwicklung eines Data Warehouses und BI-
 
 **Entity Relationship Diagram** 
 
-<img width="224" alt="image" src="https://github.com/user-attachments/assets/a08c62b0-4a73-4991-8ba6-c00659f8af75" />
+![image](https://github.com/user-attachments/assets/5f33769e-8610-4e83-a2d2-f0cf538d6b20)
+
 
 
