@@ -10,6 +10,8 @@ Definition von Business Case, KPIs und Entwicklung eines Data Warehouses und BI-
 
 
 
-**Entity Relationship Diagram** (Snowflake Schema)
+**Entity Relationship Diagram** 
 
-![image](https://github.com/user-attachments/assets/19cb1f36-04d9-4bfd-8b83-7ebd9046efdb)
+<img width="224" alt="image" src="https://github.com/user-attachments/assets/a08c62b0-4a73-4991-8ba6-c00659f8af75" />
+
+
