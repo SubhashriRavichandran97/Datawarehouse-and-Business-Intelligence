@@ -64,7 +64,8 @@ Forest Cover Change
 
 **Entity Relationship Diagram**
 
-<img width="392" alt="image" src="https://github.com/user-attachments/assets/402f514b-9600-444e-a8b8-463184261850" />
+<img width="629" alt="image" src="https://github.com/user-attachments/assets/99121085-1060-412b-8145-ad17c5b140bd" />
+
 
 
 
