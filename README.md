@@ -32,23 +32,26 @@ Enabling real-time analysis to support environmental decision-making.
 
 **Stakeholders Benefiting**
 
-Government Agencies
-NGOs
-Researchers
-Environmental Strategists
+Government Agencies, NGOs, Researchers, Environmental Strategists
 
 **Tools Used**
 
 Python for Data Cleaning and Transformation
+
 MySQL based Data Warehouse
+
 Excel for Prototype 
+
 Power BI for visualisation
 
 **Key Performance Indicators (KPIs)**
 
 CO₂ Emissions Change
+
 Threatened Species Rate
+
 Water & Sanitation Disparities
+
 Forest Cover Change
 
 
