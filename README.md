@@ -15,4 +15,9 @@ Definition von Business Case, KPIs und Entwicklung eines Data Warehouses und BI-
 ![image](https://github.com/user-attachments/assets/5f33769e-8610-4e83-a2d2-f0cf538d6b20)
 
 
+**Dashboard**
+<img width="373" alt="image" src="https://github.com/user-attachments/assets/255f2943-4158-4af7-b632-bb2c727b967b" />
+
+
+
 
