@@ -1,8 +1,47 @@
 Dataset Link - https://data.un.org/
 
-**Overview of the project**
+**Project Overview: Data-Driven Insights on Global Sustainability**
 
-Definition von Business Case, KPIs und Entwicklung eines Data Warehouses und BI-Systems zur Zentralisierung und Analyse globaler Nachhaltigkeitsdaten (CO₂-Emissionen, Wasser, Biodiversität). Gestaltung von ETL-Prozessen, Power BI-Report und Sicherstellung der Datenqualität. Ableitung von Erkenntnissen und Mustern zur Unterstützung fundierter Entscheidungen. 
+1. Introduction
+This project focuses on building a Data Warehouse (DW) and Business Intelligence (BI) system to analyze global sustainability data related to CO₂ emissions, water resources, land use, and biodiversity. The goal is to provide actionable insights for policymakers, NGOs, researchers, and environmental strategists.
+
+2. Business Case
+Problem Statement
+Environmental data is often fragmented and dispersed, making it difficult to derive meaningful insights for sustainability efforts.
+Lack of centralized platforms that can help stakeholders make data-driven decisions.
+
+Motivation
+Addressing urgent climate and environmental challenges such as emissions, biodiversity loss, and water scarcity.
+Providing a structured data platform to support sustainable policymaking and resource allocation.
+
+Challenges
+Dispersed data sources from multiple global organizations.
+Inconsistencies in datasets, requiring thorough cleaning and transformation.
+Limited tools for meaningful insights, making it necessary to use BI techniques.
+
+Solution
+Developing a Data Warehouse (DW) that integrates multiple datasets.
+Implementing Business Intelligence (BI) dashboards to visualize sustainability trends.
+Enabling real-time analysis to support environmental decision-making.
+
+4. Stakeholders Benefiting
+Government Agencies
+NGOs
+Researchers
+Environmental Strategists
+
+5. Tools Used
+Python for Data Cleaning and Transformation
+MySQL based Data Warehouse
+Excel for Prototype 
+Power BI for visualisation
+
+6. Key Performance Indicators (KPIs)
+CO₂ Emissions Change
+Threatened Species Rate
+Water & Sanitation Disparities
+Forest Cover Change
+
 
 **ETL**
 
