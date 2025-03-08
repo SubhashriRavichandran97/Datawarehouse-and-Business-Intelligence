@@ -133,7 +133,7 @@ SELECT DISTINCT Year FROM db_environment.psa_threatenedspecies
 UNION 
 SELECT DISTINCT Year FROM db_environment.psa_waterandsanitation;
 
---  Insert Missing Year Records into Transformed Tables ---------------------------------------------------
+--  Insert missing year records into tables --------------------------------------------------------------
 INSERT INTO trans_co2_emission (Land_Id, Land, Year, Series, Value)
 SELECT DISTINCT t.Land_Id, t.Land, y.Year, t.Series, NULL 
 FROM all_years y 
