@@ -56,8 +56,8 @@ SELECT count(*) FROM psa_ThreatenedSpecies;
 SELECT * FROM psa_WaterandSanitation;
 SELECT count(*) FROM psa_WaterandSanitation;
 
--- Data Transformation---------------------------------------------------------------------------------------------------------
--- Transformation Area---------------------------------------------------------------------------------------------------------
+-- Data Transformation-----------------------------------------------------------------------------------
+-- Transformation Area-----------------------------------------------------------------------------------
 
 CREATE SCHEMA trans_environment;
 USE trans_environment;
