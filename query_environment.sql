@@ -62,9 +62,6 @@ SELECT count(*) FROM psa_WaterandSanitation;
 CREATE SCHEMA trans_environment;
 USE trans_environment;
 
-CREATE SCHEMA trans_environment;
-USE trans_environment;
-
 -- Create transformed tables with auto-incrementing Fact_Id
 CREATE TABLE trans_Co2_Emission (
      Fact_Id INT AUTO_INCREMENT PRIMARY KEY,
