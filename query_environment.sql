@@ -263,7 +263,7 @@ SELECT count(*) dim_Species_Series;
 SELECT * FROM dim_Water_and_Sanitation_Series;
 SELECT count(*)dim_Water_and_Sanitation_Series ;
 
------ dwh tables ------------------------------------------------------------------------------------------
+----- fact tables ------------------------------------------------------------------------------------------
 CREATE TABLE dwh_Co2_Emission (
     Fact_Id INT PRIMARY KEY,
     Land_Id INT,
@@ -305,7 +305,7 @@ CREATE TABLE dwh_Water_and_Sanitation (
     FOREIGN KEY (Series_Id) REFERENCES dwh_Environment.Dim_Water_and_Sanitation_Series(Series_Id)
 );
 
------ Insert values from trans tables to datawarehouse tables --------------------------------------------------
+----- Insert values from trans tables to fact tables ---------------------------------------------------
 INSERT INTO dwh_Co2_Emission (Fact_Id, Land_Id, Year_Id, Series_Id, Emission_Value)
 SELECT 
     trans.Fact_Id,
