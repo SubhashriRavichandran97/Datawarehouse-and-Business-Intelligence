@@ -56,8 +56,8 @@ SELECT count(*) FROM psa_ThreatenedSpecies;
 SELECT * FROM psa_WaterandSanitation;
 SELECT count(*) FROM psa_WaterandSanitation;
 
--- Data Transformation---------------------------------------------------------------------------------------------------------
--- Transformation Area---------------------------------------------------------------------------------------------------------
+-- Data Transformation----------------------------------------------------------------------------------
+-- Transformation Area----------------------------------------------------------------------------------
 
 CREATE SCHEMA trans_environment;
 USE trans_environment;
@@ -110,7 +110,7 @@ CREATE TABLE trans_WaterandSanitation (
     Source VARCHAR(250)
 );
 
--- Insert data from psa to trans tables-------------------------------------------------
+-- Insert data from psa to trans tables----------------------------------------------------------------
 INSERT INTO trans_co2_emission (Land_Id, Land, Year, Series, Value)
 SELECT Land_Id, Land, Year, Series, Value
 FROM db_environment.psa_co2_emission;
@@ -185,7 +185,7 @@ WHERE NOT EXISTS (
       AND tws.Year = y.Year
       AND tws.Series = t.Series
 );
--- Drop Unwanted Columns ------------------------------------------------------------------------
+-- Drop Unwanted Columns ------------------------------------------------------------------------------
 ALTER TABLE trans_Co2_Emission DROP COLUMN Footnotes, DROP COLUMN Source;
 ALTER TABLE trans_Land_Usage DROP COLUMN Footnotes, DROP COLUMN Source;
 ALTER TABLE trans_ThreatenedSpecies DROP COLUMN Footnotes, DROP COLUMN Source;
