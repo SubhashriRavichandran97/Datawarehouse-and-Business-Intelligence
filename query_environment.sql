@@ -123,7 +123,7 @@ INSERT INTO trans_waterandsanitation (Land_Id, Land, Year, Series, Value)
 SELECT Land_Id, Land, Year, Series, Value
 FROM db_environment.psa_waterandsanitation;
 
--- Generate a complete list of years from all PSA tables-------------------------------------------------
+-- Generate a complete list of years from all psa tables-------------------------------------------------
 CREATE TABLE all_years AS 
 SELECT DISTINCT Year FROM db_environment.psa_co2_emission
 UNION 
