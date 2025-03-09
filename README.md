@@ -4,45 +4,14 @@ Dataset Link - https://data.un.org/
 
 **Introduction**
 
-This project focuses on building a Data Warehouse (DW) and Business Intelligence (BI) system to analyze global sustainability data related to CO₂ emissions, water resources, land use, and biodiversity. The goal is to provide actionable insights for policymakers, NGOs, researchers, and environmental strategists.
+This project involves building a Data Warehouse (DW) and Business Intelligence (BI) Report to analyze global sustainability data, focusing on CO₂ emissions, water resources, land use, and biodiversity. The goal is to uncover patterns and provide actionable insights for policymakers, NGOs, researchers, and environmental strategists to drive informed decision-making.
 
-**Business Case**
+**Tech Stack**
 
-**Problem Statement**
-
-Environmental data is often fragmented and dispersed, making it difficult to derive meaningful insights for sustainability efforts.
-Lack of centralized platforms that can help stakeholders make data-driven decisions.
-
-**Motivation**
-
-Addressing urgent climate and environmental challenges such as emissions, biodiversity loss, and water scarcity.
-Providing a structured data platform to support sustainable policymaking and resource allocation.
-
-**Challenges**
-
-Dispersed data sources from multiple global organizations.
-Inconsistencies in datasets, requiring thorough cleaning and transformation.
-Limited tools for meaningful insights, making it necessary to use BI techniques.
-
-**Solution**
-
-Developing a Data Warehouse (DW) that integrates multiple datasets.
-Implementing Business Intelligence (BI) dashboards to visualize sustainability trends.
-Enabling real-time analysis to support environmental decision-making.
-
-**Stakeholders Benefiting**
-
-Government Agencies, NGOs, Researchers, Environmental Strategists
-
-**Tools Used**
-
-Python for Data Cleaning and Transformation
-
-MySQL based Data Warehouse
-
-Excel for Prototype 
-
-Power BI for visualisation
+MySQL-Based Data Warehouse – Centralized storage for structured data.
+SQL – Data cleaning, transformation, and querying.
+Excel – Prototyping and initial data exploration.
+Power BI – Interactive dashboards and data visualization.
 
 **Key Performance Indicators (KPIs)**
 
