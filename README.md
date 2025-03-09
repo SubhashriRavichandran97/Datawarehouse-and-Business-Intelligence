@@ -11,8 +11,11 @@ This project involves building a Data Warehouse (DW) and Business Intelligence (
 **Tech Stack**
 
 MySQL-Based Data Warehouse – Centralized storage for structured data.
+
 SQL – Data cleaning, transformation, and querying.
+
 Excel – Prototyping and initial data exploration.
+
 Power BI – Interactive dashboards and data visualization.
 
 
