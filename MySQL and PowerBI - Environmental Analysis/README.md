@@ -1,11 +1,11 @@
 **Dataset Link**- https://data.un.org/
 
-Project Overview: Data-Driven Insights on Global Sustainability
+**Project Overview: Data-Driven Insights on Global Sustainability**
 
 **Introduction**
 ---------------
 
-This project involves building a Data Warehouse (DW) and Business Intelligence (BI) Report to analyze global sustainability data, focusing on CO₂ emissions, water resources, land use, and biodiversity. The goal is to uncover patterns and provide actionable insights for policymakers, NGOs, researchers, and environmental strategists to drive informed decision-making.
+This project involves building a Data Warehouse (DW) and Business Intelligence (BI) Report to analyze global sustainability data from United Nations, focusing on CO₂ emissions, water resources, land use, and biodiversity. The goal is to uncover patterns and provide actionable insights for policymakers, NGOs, researchers, and environmental strategists to drive informed decision-making.
 
 
 
@@ -44,4 +44,4 @@ Forest Cover Change
 **Power BI Report**
 ------------------
 
-image
+
