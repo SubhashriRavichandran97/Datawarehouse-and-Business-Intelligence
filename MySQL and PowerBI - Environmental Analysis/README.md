@@ -36,11 +36,11 @@ Forest Cover Change
 **ETL**
 -------
 
-image
+
 **Entity Relationship Diagram**
 ------------------------------
 
-image
+
 **Power BI Report**
 ------------------
 
