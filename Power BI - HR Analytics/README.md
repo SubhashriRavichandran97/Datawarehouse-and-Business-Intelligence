@@ -13,6 +13,10 @@ that support organizational goals and employee well-being.
 <img width="506" alt="s2" src="https://github.com/user-attachments/assets/c0fed834-2d37-48f3-9fbf-49704dfb262a" />
 
 
+
+
+
+
 <img width="503" alt="s3" src="https://github.com/user-attachments/assets/ce9e0fbd-6222-49af-845c-974731c21b1f" />
 
 
