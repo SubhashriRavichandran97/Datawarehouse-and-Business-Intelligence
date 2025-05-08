@@ -1,11 +1,11 @@
 **Project Overview: Data-Driven Insights for Smarter Workforce Management**
-
+------------------------------------------------------------------------------------------------------------------
 This project involves the development of a Power BI-based HR Analytics Report that leverages employee data to provide strategic insights into employee demographics, workforce trends, departmental dynamics, and attrition. The objective is to help HR departments, business leaders, and analysts make data-informed decisions 
 that support organizational goals and employee well-being.
 
 
 **Power BI Report**
-
+-----------------------------------------------------------------------------------------------------------------
 <img width="506" alt="s1" src="https://github.com/user-attachments/assets/eff77367-3172-43c3-bf82-242564d4f0f5" />
 
 
